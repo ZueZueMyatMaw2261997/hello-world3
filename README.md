@@ -2,3 +2,4 @@
 welcome to computer university mandalay
 it is ok
 very fine
+beautiful
